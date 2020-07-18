@@ -1,6 +1,5 @@
 # Collection
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE)
 [![Total Downloads][ico-downloads]][link-downloads]
 
@@ -75,9 +74,6 @@ $multiplied->all();
 // [2, 4, 6, 8, 10]
 ```
 
-[ico-version]: https://img.shields.io/packagist/v/itsmeabde/collections.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/itsmeabde/collections.svg?style=flat-square
-
-[link-packagist]: https://packagist.org/packages/itsmeabde/collections
 [link-downloads]: https://packagist.org/packages/itsmeabde/collections
