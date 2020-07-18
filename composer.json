@@ -1,0 +1,25 @@
+{
+    "name": "itsmeabde/collections",
+    "description": "The standalone version of laravel's collection for use outside of Laravel.",
+    "keywords": ["laravel", "collection", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "itsmeabde",
+            "email": "itsmeabde@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "Itsmeabde\\Collections\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
