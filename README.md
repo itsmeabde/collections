@@ -3,7 +3,7 @@
 [![Software License][ico-license]](LICENSE)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-The standalone version of [Laravel's Collection](https://laravel.com/docs/5.8/collections) for use outside of Laravel.
+The standalone version of [Laravel's Collection](https://laravel.com/docs/5.8/collections) including [Arr & Str helpers](https://laravel.com/docs/5.8/helpers) for use outside of Laravel.
 
 ## Installation
 
